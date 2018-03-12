@@ -2,32 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyclone DDS</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:52377/</link>
     <description>Recent content on Cyclone DDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; ADLINK 2018. All rights reserved.</copyright>
     <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:52377/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cyclone DDS</title>
-      <link>http://localhost:1313/post/cdds/</link>
+      <link>http://localhost:52377/post/cdds/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/cdds/</guid>
+      <guid>http://localhost:52377/post/cdds/</guid>
       <description>Cyclone DDS now available! As we wait for the Eclipse IoT process to complete, we have decided to make Cyclone DDS (cdds) available so that the community can start engaging with us in building the future of DDS. In the days the follow we will be releasing some additional contributions, and this is just the beginning of the cyclone.
 We want as many of you to check out cdds on GitHub and give us feedback and suggestions by opening an issue on GitHub.</description>
     </item>
     
     <item>
+      <title>Docs</title>
+      <link>http://localhost:52377/docs/</link>
+      <pubDate>Mon, 12 Mar 2018 16:47:26 +0100</pubDate>
+      
+      <guid>http://localhost:52377/docs/</guid>
+      <description> Cyclone DDS Documentation At the present stage the documentation available includes:
+ User Manual API Documentation  DDS Documentation and Tutorials You can find intro material to get started with DDS
+ DDS Tutorial Slides DDS Tutorial Booklet  </description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:52377/about/</link>
       <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:52377/about/</guid>
       <description>Cyclone DDS (cdds) is an Open Source implementation of the OMG Data Distribution Service.
 You can learn more and contribute on GitHub.
 There are already a series of related projects, such as:
@@ -36,10 +47,10 @@ There are already a series of related projects, such as:
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:52377/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:52377/contact/</guid>
       <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
     </item>
     

@@ -36,10 +36,10 @@ paginate = 10
     identifier = "post"
     url = "/post/"
   [[menu.main]]
-    name = "API"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
+    name = "Docs"
+    pre = "<i class='fa fa-book fa-fw'></i>"
     weight = 3
-    url = "https://cdds.io/docs/html/api/CycloneDDS.tar.gz"
+    url = "/docs/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
