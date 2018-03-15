@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cyclone DDS</title>
-    <link>https://cdds.io/tags/</link>
+    <link>http://cdds.io/tags/</link>
     <description>Recent content in Tags on Cyclone DDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; ADLINK 2018. All rights reserved.</copyright>
     
-	<atom:link href="https://cdds.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cdds.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
