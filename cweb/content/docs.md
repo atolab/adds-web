@@ -11,7 +11,7 @@ title: Docs
 At the present stage the documentation available includes:
 
 * [User Manual](http://cdds.io/docs/pdf/cdds.pdf)
-* [API Documentation](docs/html/api/cdds.tar.gz)
+* [API Documentation](http://cdds.io/docs/html/api/cdds.tar.gz)
 
 ## DDS Documentation and Tutorials
 
@@ -19,4 +19,3 @@ At the present stage the documentation available includes:
 
  * [DDS Tutorial Slides](https://www.slideshare.net/Angelo.Corsaro/the-data-distribution-service-76586756)
  * [DDS Tutorial Booklet](https://www.slideshare.net/Angelo.Corsaro/the-data-distribution-service-tutorial)
- 
